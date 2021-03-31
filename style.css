@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    padding:0px;
+    
+}
+.conteneur{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.boxgreen{
+    width: 82%;
+    height: 48px;
+    background-color: #2cc55e
+}
+.boxblue
+{
+    display: inline;
+    width:18%;
+    height: 48px;
+    background-color : #226bab
+}
+.boxred
+{
+    background-color: #df342e;
+    width : 34%;
+    height: 142px;
+    display: inline-block;
+    
+
+}
+.boxorange {
+    background-color: #de6a1b;
+    width: 33%;
+    height: 71px;
+    
+    
+
+}
+.boxyellow{
+    background-color: #ee8a12;
+    width: 22%;
+    height: 71px;
+    margin-left: 34%;
+    margin-top: -71px;
+}
+.boxgrey{
+    background-color: #839595;
+    width: 33%;
+    height: 71px;
+    
+}
+.boxteal{
+    background-color: #1b9172;
+    width: 22%;
+    height: 71px;
+    margin-top: -71px;
+
+}
+.boxorangedark{
+    background-color: #c73f05;
+    width: 22%;
+    height: 71px;
+    margin-top: -71px;
+    
+}
